@@ -1,2 +1,3 @@
 # hello-world
-trying out github
+This is Mike, I'm trying out github... new experiences... data forward... sings like a canary...
+
